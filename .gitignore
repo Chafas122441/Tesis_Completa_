@@ -1,0 +1,23 @@
+# Productos de compilación de los microcontroladores
+Codigo/**/Debug/
+Codigo/**/Release/
+Codigo/**/.build*/
+Codigo/**/*.o
+Codigo/**/*.d
+Codigo/**/*.elf
+Codigo/**/*.bin
+Codigo/**/*.hex
+Codigo/**/*.map
+Codigo/**/*.list
+Codigo/**/*.su
+Codigo/**/*.cyclo
+Codigo/**/*.launch
+
+# Cachés y archivos temporales del sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+~$*
